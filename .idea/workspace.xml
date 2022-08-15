@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c34eec8f-5020-4519-b0a4-c6fc9bfdf504" name="Changes" comment="Creating objects to test our classes">
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Conteudo.java" afterDir="false" />
+    <list default="true" id="c34eec8f-5020-4519-b0a4-c6fc9bfdf504" name="Changes" comment="Creating an abstract class called Conteudo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Mentoria.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660599668077</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Creating an abstract class called Conteudo">
+      <created>1660600267098</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1660600267098</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,6 +112,7 @@
     <MESSAGE value="Adding README file" />
     <MESSAGE value="Creating new classes" />
     <MESSAGE value="Creating objects to test our classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating objects to test our classes" />
+    <MESSAGE value="Creating an abstract class called Conteudo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating an abstract class called Conteudo" />
   </component>
 </project>
