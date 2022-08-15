@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c34eec8f-5020-4519-b0a4-c6fc9bfdf504" name="Changes" comment="Creating classes Bootcamp and Dev">
+    <list default="true" id="c34eec8f-5020-4519-b0a4-c6fc9bfdf504" name="Changes" comment="Implementing attributes, getters, setters, methods, hashes and equals on Bootcamp class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Dev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Dev.java" afterDir="false" />
     </list>
@@ -107,7 +107,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660601220596</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Implementing attributes, getters, setters, methods, hashes and equals on Dev class">
+      <created>1660601882880</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1660601882880</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Implementing attributes, getters, setters, methods, hashes and equals on Bootcamp class">
+      <created>1660602266641</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1660602266641</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,6 +143,8 @@
     <MESSAGE value="Creating an abstract class called Conteudo" />
     <MESSAGE value="Refactoring classes to implement the abstract method calcularxp" />
     <MESSAGE value="Creating classes Bootcamp and Dev" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating classes Bootcamp and Dev" />
+    <MESSAGE value="Implementing attributes, getters, setters, methods, hashes and equals on Dev class" />
+    <MESSAGE value="Implementing attributes, getters, setters, methods, hashes and equals on Bootcamp class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementing attributes, getters, setters, methods, hashes and equals on Bootcamp class" />
   </component>
 </project>
