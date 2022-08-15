@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c34eec8f-5020-4519-b0a4-c6fc9bfdf504" name="Changes" comment="Implementing attributes, getters, setters, methods, hashes and equals on Bootcamp class">
+    <list default="true" id="c34eec8f-5020-4519-b0a4-c6fc9bfdf504" name="Changes" comment="Implementing methods to Dev class.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Dev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Dev.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660602266641</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Implementing methods to Dev class.">
+      <created>1660603082578</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1660603082578</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,6 +152,7 @@
     <MESSAGE value="Creating classes Bootcamp and Dev" />
     <MESSAGE value="Implementing attributes, getters, setters, methods, hashes and equals on Dev class" />
     <MESSAGE value="Implementing attributes, getters, setters, methods, hashes and equals on Bootcamp class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementing attributes, getters, setters, methods, hashes and equals on Bootcamp class" />
+    <MESSAGE value="Implementing methods to Dev class." />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementing methods to Dev class." />
   </component>
 </project>
